@@ -1,1 +1,7 @@
-# Analise_Exploratoria_Concatenacao_Pop_Resid_CGIAE
+# Análise Exploratória - Concatenação de dados da CGIAE referentes à População Residentes no Brasil 
+
+#Sobre o projeto
+
+#Objetivo
+
+#Tecnologias aplicadas
